@@ -8,6 +8,7 @@ I am a Master's student in Artificial Intelligence and Data Science at the Unive
 
 *   **[Cronofogo](https://github.com/catarinafelixcr/cronofogo)** — An interactive dashboard using Python and Plotly to analyze and predict wildfires in Portugal.
 *   **[TeachersArch](https://github.com/catarinafelixcr/teachersArch)** — A full-stack web application for resource management, built collaboratively with Flask and SQL.
+*   **[PortuguesePoliticsLLM](https://github.com/catarinafelixcr/PortuguesePoliticsLLM)** - Assist users in exploring the electoral programs of major Portuguese political parties for the 2025 legislative elections.
 
 ---
 
