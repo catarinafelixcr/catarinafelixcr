@@ -14,7 +14,7 @@ I am a Master's student in Artificial Intelligence and Data Science at the Unive
 
 ### My Technical Toolkit
 
-Here are some of the technologies and tools I work with:
+Here are  \_some\_ of the technologies and tools I work with:
 
 *   **Programming Languages:** Python, SQL
 *   **Data Science Libraries:** Pandas, NumPy, Scikit-learn, (etc, very more)
