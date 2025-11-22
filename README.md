@@ -17,8 +17,8 @@ I am a Master's student in Artificial Intelligence and Data Science at the Unive
 Here are some of the technologies and tools I work with:
 
 *   **Programming Languages:** Python, SQL
-*   **Data Science Libraries:** Pandas, NumPy, Scikit-learn, GeoPandas (etc)
-*   **Data Visualization & EDA:** Matplotlib, Seaborn, Plotly, Matplotlib
+*   **Data Science Libraries:** Pandas, NumPy, Scikit-learn, (etc, very more)
+*   **Data Visualization & EDA:** Matplotlib, Seaborn, Plotly
 
 ---
 
