@@ -17,7 +17,7 @@
 
 ### a bit about me
 
-I just finished my Master’s in AI & Data Science at Coimbra, and now I’m looking for my first full-time role. I'm not locked into a specific job title (data science, analytics, or ML) as long as I get to work on real-world datasets and build useful things.
+I just finished my Master’s in AI and Data Science at University of Coimbra, and now Im looking for my first full-time role. I'm not locked into a specific job title (data science, analytics, or ML) as long as I get to work on real-world datasets and build useful things.
 
 I like the whole process: the messy CSV nobody wants to touch, the model that almost works, the chart that finally makes someone go "oh, *now* I get it." Wildfires, education platforms, whatever,if there's a dataset in it, I'm interested.
 
