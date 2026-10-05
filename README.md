@@ -28,11 +28,8 @@ Currently: open to work, open to relocating, open to coffee chats about anything
 ### things I've built
 
 * [Cronofogo](https://github.com/catarinafelixcr/cronofogo)
-An interactive dashboard that analyzes and predicts wildfire occurrence in Portugal. Built with Python + Plotly, because static charts weren't going to cut it for a problem this dynamic. This one started as a "wouldn't it be cool if" and turned into a proper predictive tool.
+- an interactive dashboard that analyzes and predicts wildfire occurrence in Portugal. Built with python, because static charts weren't going to cut it for a problem this dynamic. This one started as a "wouldn't it be cool if" and turned into a proper predictive tool.
 `Python` `Pandas` `Plotly` `Scikit-learn`
-
-* [TeachersArch](https://github.com/catarinafelixcr/teachersArch)
-A web app for managing school resources. Built this with a small team, where I handled the SQL database design and the Flask backend. It was my first time taking a project beyond a Jupyter notebook.
 
 ---
 
