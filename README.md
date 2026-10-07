@@ -27,8 +27,7 @@ Currently: open to work, open to relocating, open to coffee chats about anything
 
 ### things I've built
 
-* [Cronofogo](https://github.com/catarinafelixcr/cronofogo)
-- an interactive dashboard that analyzes and predicts wildfire occurrence in Portugal. Built with python, because static charts weren't going to cut it for a problem this dynamic. This one started as a "wouldn't it be cool if" and turned into a proper predictive tool.
+* [Cronofogo](https://github.com/catarinafelixcr/cronofogo) - an interactive dashboard that analyzes and predicts wildfire occurrence in Portugal. Built with python, because static charts weren't going to cut it for a problem this dynamic. This one started as a "wouldn't it be cool if" and turned into a proper predictive tool.
 `Python` `Pandas` `Plotly` `Scikit-learn`
 
 ---
