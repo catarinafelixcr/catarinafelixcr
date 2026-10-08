@@ -52,7 +52,3 @@ Currently: open to work, open to relocating, open to coffee chats about anything
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=catarinafelixcr&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
-
----
-
-<p align="center"><i>if you're reading this and thinking "we should talk" — my inbox is open. 🚀</i></p>
