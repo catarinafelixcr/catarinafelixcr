@@ -8,9 +8,7 @@
   <a href="https://www.kaggle.com/catarinafelixcr" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
 </p>
 
 ---
