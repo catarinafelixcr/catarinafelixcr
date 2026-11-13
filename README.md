@@ -37,7 +37,7 @@ Currently: open to work, open to relocating, open to coffee chats about anything
 
 **data & ML:** `Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `Matplotlib` · `Seaborn` · `Plotly`
 
-**LLMs & engineering:** `LLM APIs (Gemini)` · `RAG` · `Embeddings` · `Prompt engineering` · `Pydantic` · `PyTest` · `Streamlit` · `Git`
+**LLMs & engineering: (learning!!)** `LLM APIs (Gemini)` · `RAG` · `Embeddings` · `Prompt engineering` · `Pydantic` · `PyTest` · `Streamlit` · `Git`
 
 ---
 
