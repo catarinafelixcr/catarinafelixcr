@@ -15,24 +15,29 @@
 
 ### a bit about me
 
-I just finished my Master’s in AI and Data Science at University of Coimbra, and now Im looking for my first full-time role. I'm not locked into a specific job title (data science, analytics, or ML) as long as I get to work on real-world datasets and build useful things.
+I just finished my Master's in AI and Data Science at the University of Coimbra, and now I'm looking for my first full-time role. I'm not locked into a specific job title (data science, analytics, ML or LLM applications) as long as I get to work on real-world data and build useful things.
 
-I like the whole process: the messy CSV nobody wants to touch, the model that almost works, the chart that finally makes someone go "oh, *now* I get it." Wildfires, education platforms, whatever,if there's a dataset in it, I'm interested.
+I like the whole process: the messy CSV nobody wants to touch, the model that almost works, the chart that finally makes someone go "oh, *now* I get it." Wildfires, medicine leaflets, education platforms, whatever: if there's data in it, I'm interested.
 
-Currently: open to work, open to relocating, open to coffee chats about anything data-related ☕ hmmmmm
+Currently: open to work, open to relocating, open to coffee chats about anything data-related ☕
 
 ---
 
 ### things I've built
 
-* [Cronofogo](https://github.com/catarinafelixcr/cronofogo) - an interactive dashboard that analyzes and predicts wildfire occurrence in Portugal. Built with python, because static charts weren't going to cut it for a problem this dynamic. This one started as a "wouldn't it be cool if" and turned into a proper predictive tool.
+* [Easy Leaflet](https://github.com/catarinafelixcr/easy-leaflet) - ask a question about a Portuguese medicine leaflet and get a short answer in plain Portuguese, with the official text as proof. My first LLM project: a RAG pipeline with its own 30-question evaluation (about 87% accuracy, and it never invented an answer), 21 tests and a Streamlit demo. Favourite moment: finding out why the search failed. The leaflet said "ibuprofeno", the question said "Brufen".
+`Python` `RAG` `Gemini API` `Sentence-Transformers` `Pydantic` `PyTest` `Streamlit`
+
+* [Cronofogo](https://github.com/catarinafelixcr/cronofogo) - an interactive dashboard that analyzes and predicts wildfire occurrence in Portugal. Built with Python, because static charts weren't going to cut it for a problem this dynamic. This one started as a "wouldn't it be cool if" and turned into a proper predictive tool.
 `Python` `Pandas` `Plotly` `Scikit-learn`
 
 ---
 
 ### what I work with
 
-`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Plotly`
+**data & ML:** `Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `Matplotlib` · `Seaborn` · `Plotly`
+
+**LLMs & engineering:** `LLM APIs (Gemini)` · `RAG` · `Embeddings` · `Prompt engineering` · `Pydantic` · `PyTest` · `Streamlit` · `Git`
 
 ---
 
